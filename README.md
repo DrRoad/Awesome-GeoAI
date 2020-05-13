@@ -1,11 +1,11 @@
 <div align="center">
-	<img width="500" height="350" src="deepVector_GeospatialMachineLearning_2018_banner02_100.png" alt="Awesome">
+	<img width="500" height="350" src="GeoAI-logo.jpg" alt="Awesome">
 	<br>
 	<br>
 	<p>
 		<br>
 		<br>
-		<h3 align="center"><a href="https://www.producthunt.com/posts/jiffy-2">Resouces, posts, projects, datasets about machine learning / deep learning in Geospatial/Ag domain</h3></h3>
+		<h3 align="center">Resouces, posts, projects, datasets about machine learning / deep learning in Geospatial/Ag domain</h3>
 		<br>
 	</p>
 	<hr>
@@ -29,14 +29,22 @@
 - [Big Data](#big-data)
 - [Agriculture](#theory)
 - [Urban](#theory)
-- [Books](#books)
 - [Posts](#posts)
+- [PaperCode](#papercode)
 
 ## Platforms
 - [Google Earth Engine]() - 
 - [Descart Labs]() - 
 
 - - -
+
+## Papercode
+- [forecastVeg: A Machine Learning Approach to Forecasting Remotely Sensed Vegetation Health by John Nay](https://github.com/JohnNay/forecastVeg) | Github (2016) - MODIS predicts future vegetation health values, global
+- - -
+
+- - -
+
+
 
 ## Posts
 * [PostGIS](http://postgis.net/) :star2: - PostgreSql spatial extension.
